@@ -1,0 +1,30 @@
+{
+  "name": "face-recommendation-app",
+  "version": "1.0.0",
+  "description": "A web app that captures a user's face and provides recommendations along with ChatGPT assistance.",
+  "main": "src/index.tsx",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-scripts": "4.0.3"
+  },
+  "devDependencies": {
+    "typescript": "^4.1.3",
+    "@types/react": "^17.0.2",
+    "@types/react-dom": "^17.0.2"
+  },
+  "keywords": [
+    "face-recognition",
+    "recommendation",
+    "chatgpt",
+    "react"
+  ],
+  "author": "Your Name",
+  "license": "MIT"
+}
